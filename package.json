@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "devStart":"nodemon app.js",
+    "test": "echo \"error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
